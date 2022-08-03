@@ -16,14 +16,27 @@
 
 ## Steps
 
-#### Requires Conda to run the program
-#### conda create --name <envname> --file requirements.txt
-#### Activate the environment
-#### Change the paths in all the files to find the appropriate data
-#### python create_data.py will create the .npy files required for the model to train on
-#### Run the SuspiciousModel.ipynb to create the Suspicious Behaviour Detector Models
-#### python face.py to collect photos of faces to create the criminal database
-#### python encoding.py to create the encoding of the collected photos
-#### python multi.py to run all three models in parallel
+###### Requires Conda to run the program
+###### conda create --name <envname> --file requirements.txt
+###### Activate the environment
+###### Change the paths in all the files to find the appropriate data
+###### python create_data.py will create the .npy files required for the model to train on
+###### Run the SuspiciousModel.ipynb to create the Suspicious Behaviour Detector Models
+###### python face.py to collect photos of faces to create the criminal database
+###### python encoding.py to create the encoding of the collected photos
+###### python multi.py to run all three models in parallel
+  
+  
+## Implementation
+  
+![Video of the Implementation](https://raw.githubusercontent.com/vieee/crime_detection_system/main/a.webp)
+  
+
+## Made By 
+
+* [Harshita Lakhotiya](https://github.com/Harshitalakhotiya)
+* [Deepak Yadav](https://github.com/vieee)
+* [Rajat Shenoy](https://github.com/rajatshenoy56)
+
   
   

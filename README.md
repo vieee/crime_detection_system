@@ -8,8 +8,8 @@
 * _A [ResNet-GRU Model](https://www.researchgate.net/publication/344002214_A_Novel_Fault_Identification_Method_for_Photovoltaic_Array_Via_Convolutional_Neural_Network_and_Residual_Gated_Recurrent_Unit) was trained for human behavior analysis which detects suspicious actions._ 
 * _An alert is generated when there are signs of crime and concerned authorities are notified._
 
-[![Tensorflow](https://img.shields.io/badge/tensorflow.js-utilizing-green)](https://js.tensorflow.org/api/latest/)
-[![FACE-API](https://img.shields.io/badge/face--api.js-recognition-green)](https://justadudewhohacks.github.io/face-api.js/docs/index.html)
+[![Tensorflow](https://img.shields.io/badge/tensorflow-utilizing-green)](https://js.tensorflow.org/api/latest/)
+[![FACE-API](https://img.shields.io/badge/face--api-recognition-green)](https://justadudewhohacks.github.io/face-api.js/docs/index.html)
 [![Build Status](https://github.com/ageitgey/face_recognition/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/ageitgey/face_recognition/actions?query=workflow%3ACI)
 [![Documentation Status](https://readthedocs.org/projects/face-recognition/badge/?version=latest)](http://face-recognition.readthedocs.io/en/latest/?badge=latest)
 
